@@ -22,7 +22,7 @@
 @gray-4: #999;
 @gray-5: #666;
 
-@blue: #21B5EA;
+@blue: #6fcef1;
 @blue_lt: lighten(@blue,10);
 @yellow: #fcf302;
 @blue-gray: desaturate(@blue, 50);
